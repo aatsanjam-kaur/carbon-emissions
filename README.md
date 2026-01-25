@@ -1,2 +1,34 @@
 # carbon-emissions
 prototype 
+
+[question.html](https://github.com/user-attachments/files/24845196/question.html)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Daily tracker</h1>
+    <nav class="icons">
+
+    </nav>
+
+    
+    <div class="box">
+       
+    </div> 
+
+    <div class="ctrlBtns">
+        
+            <button class="back">Back</button>
+            <button class="next">Next</button>
+        
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
