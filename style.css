@@ -64,7 +64,7 @@ input[type="number"] {
   font-weight: 600;
   border-radius: 10px;
   background-color: #eef6ff;
-  color: #1a4d8f;
+  color: #078a23;
 }
 
 /* Diet buttons */
@@ -104,12 +104,12 @@ input[type="number"] {
   border: none;
   font-size: 14px;
   cursor: pointer;
-  background-color: #1976d2;
+  background-color: #05970c;
   color: white;
   transition: background-color 0.2s ease;
 }
 
 .ctrlBtns button:hover {
-  background-color: #0d47a1;
+  background-color: #098b3b;
 }
 
