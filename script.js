@@ -298,12 +298,7 @@ function sixthPage() {
 
 
 
-let track = document.querySelector(".trackButton");
-if (track) {
-  track.addEventListener("click", () => {
-    window.location.href = "question.html";
-  });
-}
+
 window.addEventListener("DOMContentLoaded", () => {
   firstPage();
 });
@@ -332,3 +327,4 @@ back.addEventListener("click", () => {
     pages[currentPage]();
   }
 });
+
